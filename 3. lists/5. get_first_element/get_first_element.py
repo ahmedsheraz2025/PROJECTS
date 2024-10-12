@@ -1,6 +1,4 @@
- 
- 
- 
+
 def get_first_element(lst):
     print(lst[0])
  
